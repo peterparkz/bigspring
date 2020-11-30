@@ -1,4 +1,9 @@
 ---
 label: BLog
 hide_body: true
-fields: []
+fields:
+- name: aqui
+  type: include
+  config: {}
+  template: blog
+  label: Aqui
