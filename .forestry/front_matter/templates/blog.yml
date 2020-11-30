@@ -7,3 +7,10 @@ fields:
   config: {}
   template: blog
   label: Aqui
+- name: bbbbb
+  type: blocks
+  label: bbbbb
+  template_types: []
+  config:
+    min: 
+    max: 
