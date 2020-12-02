@@ -85,8 +85,8 @@ call_to_action:
   enable : true
   title : "Pronto para começar?"
   image : "images/cta.svg"
-  content : "Entre em contato para batermos um papo ou fazer um orçamento."
+  content : "Entre em contato para batermos um papo, nos conhecermos ou até mesmo fazer um orçamento."
   button:
     enable : true
-    label : "Bora conversar?"
+    label : "Só clicar aqui"
     link : "contact"
