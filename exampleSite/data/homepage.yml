@@ -1,11 +1,11 @@
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Gostaria de um novo visual para sua empresa ou website?"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "Atualmente trabalho com o desenvolvimento de logos, panfletos, banners, artes para redes sociais e também layout para websites."
   button:
     enable : true
-    label : "Contact With Us"
+    label : "Entre em contato"
     link : "#"
 
 ##################### Feature ##########################
